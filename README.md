@@ -31,3 +31,11 @@ My name is Faizan ul Islam.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
 </div>
+
+📈 Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codexfaizan&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexfaizan&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codexfaizan&theme=dracula&hide_border=true)
